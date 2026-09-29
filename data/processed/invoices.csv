@@ -1,0 +1,301 @@
+file_name,invoice_number,invoice_date,vendor_name,total_amount,net_total,item_count,is_valid,validation_reason
+batch1-0001.jpg,51109338,04/13/2013,"Andrews, Kirby and Valdez",6204.19,5640.17,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0002.jpg,12847181,03/03/2012,Fitzpatrick and Sons,6860.45,6236.77,5,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0003.jpg,19471831,04/09/2014,Palmer Ltd,44745.59,40677.81,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0004.jpg,16273983,04/01/2017,"Reyes, Holloway and Lee",819.06,744.6,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0005.jpg,89969473,10/29/2016,Johnson-Martin,797.91,725.37,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0006.jpg,72128555,12/25/2013,Obrien Group,732.34,665.76,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0007.jpg,11580833,11/24/2019,"Wood, Simpson and Summers",5138.35,4671.23,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0008.jpg,74589240,12/08/2013,Hall-Boyd,12973.88,11794.44,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0009.jpg,81978187,01/17/2013,Padilla-Miller,124.79,113.45,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0010.jpg,99314100,06/25/2014,"Michael, Farrell and Lee",6573.33,5975.75,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0011.jpg,68688408,03/20/2016,Torres and Sons,91.27,82.97,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0012.jpg,13407985,,"Nicholson, Miller and Webster",5459.75,4963.41,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0013.jpg,57986024,10/17/2015,Schmidt LLC,,215.72,5,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR, Missing data"
+batch1-0014.jpg,77596491,01/31/2021,"Tran, Hurst and Rodgers",24.95,22.68,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0015.jpg,46506594,03/12/2012,Porter-Perkins,1469.45,1335.86,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0016.jpg,44456646,03/21/2015,Austin and Sons,,,5,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0017.jpg,98858130,01/28/2021,"Dominguez, Jackson and Steele",442.07,401.88,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0018.jpg,36187296,01/05/2017,"Lopez, Murray and Johnston",518.8,471.64,6,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0019.jpg,56908352,01/11/2015,"Lozano, Wang and Smith",188.11,171.01,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0020.jpg,15001300,02/18/2014,"Kerr, Ryan and Gomez",327.08,297.35,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0021.jpg,96430839,,"Bennett, Chavez and Vazquez",4958.16,4507.42,5,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0022.jpg,37877758,,Holmes-Whitney,47320.32,43018.47,5,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0023.jpg,33102457,09/18/2018,"Harris LLC Pierce, Bush and Jones",18281.24,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0024.jpg,65028137,01/03/2014,"Johnson, Barrett and King",98.95,89.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0025.jpg,22083742,03/01/2014,"Smith, Schaefer and Gonzalez",7920.0,7200.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0026.jpg,51295021,01/05/2017,Sims-Olson,9256.59,8415.08,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0027.jpg,44848471,03/26/2021,"Proctor, Levy and Willis",838.68,762.44,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0028.jpg,32830026,12/20/2014,"George, Casey and Harris",1140.24,1036.58,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0029.jpg,54661411,07/29/2020,Fitzgerald Group,7920.58,7200.53,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0030.jpg,58379529,05/31/2011,"Dalton, Chambers and Howard",2934.7,2667.91,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0031.jpg,20434959,12/20/2011,"Garrett, Gonzales and Hurley",29.67,26.97,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0032.jpg,10942693,06/13/2018,Coleman Inc,21151.66,19228.78,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0033.jpg,97388190,12/13/2016,Cook Ltd,329.84,299.85,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0034.jpg,60456703,09/01/2016,Hines Ltd,373.98,339.98,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0035.jpg,78605417,08/07/2017,Campos LLC,722.11,656.46,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0036.jpg,94786467,11/19/2013,Campbell-Thomas,8479.08,7708.25,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0037.jpg,61669642,11/12/2013,Carter Inc,151.38,137.62,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0038.jpg,37060863,,Floyd-Figueroa,2022.82,1838.93,7,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0039.jpg,35593328,06/08/2011,Cruz-Carter,3004.96,2731.78,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0040.jpg,74980573,09/27/2015,West Group,191.26,173.87,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0041.jpg,69875170,07/18/2014,"Davis, Thomas and Larson",194521.7,176837.91,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0042.jpg,86736203,05/20/2013,Potter-Gordon,15574.11,14158.28,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0043.jpg,37107781,07/29/2012,Williamson-Hernandez,2804.92,2549.93,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0044.jpg,12323459,08/04/2013,"Wright, Gonzalez and Gomez",81.68,74.25,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0045.jpg,34967709,01/16/2018,"Burns, King and Serrano",549.98,499.98,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0046.jpg,76778037,03/15/2021,Wilson-Todd,759.03,690.03,5,True,
+batch1-0047.jpg,24342647,05/07/2020,"Davis, Evans and Cooper",,4112.98,3,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0048.jpg,96947403,10/09/2011,Frazier-Rose,529.78,481.62,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0049.jpg,26700559,01/11/2018,Martinez PLC,,311.7,3,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0050.jpg,53553822,07/24/2012,Lee-Brown,25738.94,23399.04,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0051.jpg,12590251,01/17/2016,"Harrison, Tucker and Choi",2237.95,2034.5,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0052.jpg,36033621,04/18/2017,Walton PLC,243.71,221.55,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0053.jpg,32283117,,Chapman-Johnson,73.76,67.05,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0054.jpg,69703455,02/06/2014,Anderson Group,4007.31,3643.01,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0055.jpg,17290430,05/27/2013,Hodge-Stokes,14832.92,13484.47,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0056.jpg,13367493,02/21/2012,"Terry, Crawford and Vega",494.89,449.9,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0057.jpg,89299747,04/14/2018,"Jones, Davis and Moses",389.0,353.64,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0058.jpg,80489404,12/21/2013,Gonzalez LLC,470.92,428.11,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0059.jpg,93219493,,James PLC,1255.0,1140.91,5,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0060.jpg,80273553,11/26/2012,"Cohen, Saunders and Chapman",32.83,29.85,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0061.jpg,99106655,06/12/2017,Harris and Sons,5743.69,5221.54,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0062.jpg,60665075,,"Martin, Graham and Newman",84314.78,76649.8,6,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0063.jpg,18975369,05/26/2021,"Padilla, Mccarthy and Gonzales Parker-Fowler",154.0,,1,False,Invalid invoice: Missing net_total — could not extract from OCR
+batch1-0064.jpg,16773532,04/30/2020,"White, Young and Johnson",5411.82,4919.84,3,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0065.jpg,25194747,05/19/2018,Castillo-Jones,152.87,138.97,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0066.jpg,77668740,01/02/2016,"Ryan, Garcia and Gregory Hopkins, Gonzales and Mccarthy",2.19,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0067.jpg,94166183,08/24/2019,West-Hodges,21.56,19.6,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0068.jpg,55149610,02/23/2012,King PLC,2779.7,2527.0,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0069.jpg,12459784,08/19/2020,"Smith, Johnson and Ramsey",162.79,147.99,6,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0070.jpg,48190115,02/15/2013,"Wilson, Sanders and Smith",1250.75,1137.05,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0071.jpg,45234802,09/06/2013,Williams-Burns,1731.35,1573.95,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0072.jpg,72929361,06/29/2020,Dawson-Strickland Hobbs-Stevens,324.5,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0073.jpg,58051696,11/05/2019,"Johnson, Buckley and Terry Palmer, Chan and Salazar",53.96,,4,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0074.jpg,98852451,09/02/2019,Peterson LLC,4151.23,3773.85,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0075.jpg,72024579,01/25/2021,Green-Snow,,,7,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0076.jpg,32530472,08/27/2015,Cooper-Fox,187.0,170.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0077.jpg,22132714,05/08/2020,Jordan-Cohen,5295.73,4814.3,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0078.jpg,61874671,07/26/2018,Gonzales-Faulkner,312.93,284.48,3,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0079.jpg,32357396,04/19/2020,Obrien Inc,62778.56,57071.42,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0080.jpg,66389180,07/30/2016,Mercer-Donovan,,,6,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0081.jpg,15288019,09/07/2014,Fernandez Ltd,1.71,1.55,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0082.jpg,31293737,12/15/2020,Nunez Inc,408.66,371.51,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0083.jpg,69556867,02/14/2017,Houston Group,1190.54,1082.31,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0084.jpg,69062791,02/16/2021,Torres Group,2322.84,2111.67,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0085.jpg,62256280,11/08/2020,Myers Inc,2970.0,2700.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0086.jpg,25687531,01/10/2012,"Moore, Gallagher and Villanueva",1237.5,1125.0,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0087.jpg,87734908,12/19/2019,"Chase, Green and Bailey",6.58,5.98,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0088.jpg,10060256,12/22/2013,Kim-Davenport,500.24,454.76,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0089.jpg,40259650,06/08/2019,Medina Inc,154.1,6.3,4,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset"
+batch1-0090.jpg,25532811,07/07/2016,Sandoval-Mckenzie,3541.78,3219.8,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0091.jpg,54212825,05/01/2015,Hutchinson PLC,551.54,501.4,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0092.jpg,41884162,12/21/2016,Weaver Ltd,32.83,29.85,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0093.jpg,57696752,10/03/2017,"Lopez-Smith Rodriguez, Grant and Green",2235.2,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0094.jpg,49360354,05/03/2017,Armstrong Inc,394.19,358.35,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0095.jpg,61479635,07/02/2018,Kelley-Thomas,32.95,29.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0096.jpg,76229289,12/04/2018,Rodriguez and Sons Lucero-Brown,5664.9,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0097.jpg,38173030,12/17/2018,Short-Dixon,6208.38,5643.98,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0098.jpg,92395596,10/03/2011,"Rodriguez, White and Hernandez",,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0099.jpg,73459321,,"Hernandez, English and Yoder",495.3,450.27,7,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0100.jpg,22393723,05/22/2018,Henderson Group,,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0101.jpg,72761554,,Phillips-Bailey,5439.26,4944.78,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0102.jpg,35312696,05/11/2017,"Parker, Khan and Parker",,,7,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0103.jpg,60605668,09/27/2017,Foster-Beard Henderson and Sons,6097.29,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0104.jpg,90188228,03/28/2016,Baker-Smith,353.66,321.51,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0105.jpg,57290992,10/03/2011,Adams PLC,70577.35,64161.23,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0106.jpg,98788913,11/15/2014,Salazar-Zavala,465.17,422.88,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0107.jpg,40700258,12/27/2013,Maxwell Inc,514.02,467.29,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0108.jpg,20012449,04/22/2013,Jackson Ltd,360.58,327.8,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0109.jpg,26622011,01/08/2020,Campos-Hawkins,986.7,897.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0110.jpg,91296589,09/04/2019,"Wagner, Jensen and Key King Inc",1669.75,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0111.jpg,33270121,10/03/2019,"Cross, Pearson and Murillo",10.94,9.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0112.jpg,85238418,05/03/2012,Spencer Group,178.83,162.57,6,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth, Quantity × Unit Price does not equal Net Worth, Quantity × Unit Price does not equal Net Worth"
+batch1-0113.jpg,97022721,04/28/2019,Huff-Lowe,4416.24,4014.76,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0114.jpg,74184749,03/07/2015,Klein and Sons,3.29,2.99,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0115.jpg,94772624,03/01/2015,Smith-Strickland,55.0,50.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0116.jpg,84752922,10/16/2013,"Patrick, Strong and Miller Hernandez and Sons",1028.39,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0117.jpg,93053660,10/09/2014,James LLC,375.04,340.95,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0118.jpg,68766191,09/26/2012,Campbell LLC,3717.66,3379.69,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0119.jpg,72869097,03/23/2021,"Pierce, Barber and Howard",701.72,637.93,2,True,
+batch1-0120.jpg,33035917,11/26/2017,Harris Group,9908.95,9008.14,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0121.jpg,83642064,10/17/2020,"Sanchez, Richards and James",791.96,719.96,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0122.jpg,22956460,06/26/2019,Welch PLC,2617.93,2379.94,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0123.jpg,47037480,09/03/2012,Fernandez-Evans,8621.78,7837.98,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0124.jpg,13891625,10/14/2017,Marshall-Mullins,7737.7,7034.27,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0125.jpg,29800590,08/10/2012,Lambert-Gomez,1084.56,985.96,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0126.jpg,96569585,04/17/2020,"Walker, Andrews and Leblanc",274.42,249.47,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0127.jpg,60022910,03/21/2018,Burch PLC,19.77,17.97,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0128.jpg,73144550,,"Mcdowell, Odom and Crosby",63.32,57.56,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0129.jpg,41250328,08/25/2017,"Williams, Brown and Mcmillan",891.0,810.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0130.jpg,10737107,07/20/2012,"Thompson, Evans and Parker",66.99,60.9,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0131.jpg,57416834,10/14/2020,Hicks-Miller,74294.55,67540.5,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0132.jpg,861647,05/15/2020,02,714.95,649.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0133.jpg,53221040,12/26/2014,Preston Inc Mathews-Harrison,3454.44,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0134.jpg,36051373,04/07/2015,"Cervantes, Carpenter and Morse Holland, Lee and Kline",10818.95,,5,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0135.jpg,87454899,,Brown and Sons,274.95,249.95,1,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0136.jpg,36475327,08/23/2020,Faulkner Group,5605.15,5095.59,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0137.jpg,77169807,05/13/2018,"Flores, David and Fleming",44.0,40.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0138.jpg,61782695,05/15/2017,"Anderson, Brown and Thompson",73824.49,67113.17,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0139.jpg,38510682,09/05/2011,Solomon-Murray,743.58,675.98,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0140.jpg,61527431,08/24/2016,Mckay Inc,10319.1,9381.0,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0141.jpg,73783721,10/22/2011,"Wood, Nichols and Perry",43.95,39.95,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0142.jpg,52701374,06/29/2018,Daniel Group,104.97,95.43,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0143.jpg,61809225,10/24/2015,Ellis-Thomas,17740.25,16127.5,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0144.jpg,79990560,05/09/2016,"Stephens, Lopez and Ramirez",,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0145.jpg,91781923,03/09/2013,Barry-Roberts,6198.39,5634.9,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0146.jpg,49900465,12/23/2014,Fleming and Sons,205.21,186.55,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0147.jpg,48440593,06/27/2014,Patton-Barrett,3620.84,3291.67,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0148.jpg,33299774,10/24/2015,"Garcia, Avery and Hernandez",1721.01,1564.55,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0149.jpg,50027163,02/24/2012,"Mendez, Gibson and Shaffer",10865.23,9877.48,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0150.jpg,24826419,08/12/2018,Herrera PLC,16.45,14.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0151.jpg,92059706,04/28/2017,"Archer, Davis and Hudson",3838.87,3489.88,3,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0152.jpg,49848653,05/15/2018,"Edwards, Smith and Foster",161.94,147.22,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0153.jpg,44910862,03/19/2017,Potts LLC,255.38,232.16,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0154.jpg,85930211,08/02/2012,"Torres, Martin and Robinson",24038.28,21852.98,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0155.jpg,62472177,11/27/2018,Crosby-Cox,81508.24,74098.4,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0156.jpg,71490900,11/01/2013,Hurst Ltd,1704.45,1549.5,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0157.jpg,57770024,12/12/2020,Thompson-Miller,8820.75,8018.86,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0158.jpg,49565075,10/28/2019,Kane-Morgan,96.73,87.94,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0159.jpg,41290662,08/31/2014,"Steele, Trujillo and Becker",386.05,350.95,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0160.jpg,60991397,02/25/2021,Blair LLC,281.25,255.68,5,True,
+batch1-0161.jpg,28488969,01/04/2019,Reid Ltd,113938.41,103580.37,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0162.jpg,96382825,05/03/2018,"Cain, Thomas and Best",17672.06,16065.51,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0163.jpg,53543863,07/09/2020,Cohen LLC,1802.53,1638.66,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0164.jpg,68800500,07/14/2013,"Scott, Long and Smith",538.73,489.75,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0165.jpg,68378638,10/11/2018,Lewis-Moyer,698.89,635.35,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0166.jpg,17599610,10/11/2013,"Brown, Lowery and Sandoval",36.33,33.03,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0167.jpg,34855339,03/09/2020,Alexander-Valenzuela,95.22,86.56,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0168.jpg,15318030,05/10/2012,"Cantu, Livingston and Baker",2511.2,2282.91,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0169.jpg,15203117,05/10/2019,"Gutierrez, Shah and Davis",25.52,23.2,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0170.jpg,20591219,,"Schneider, Aguirre and Dennis",771.01,700.92,7,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0171.jpg,57168941,10/19/2020,Sullivan Group,,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0172.jpg,94959966,03/14/2013,"Cordova, Guerrero and White Underwood, Ryan and Kelley",171.24,,4,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0173.jpg,68350338,04/25/2012,Mendoza-Gonzalez,9053.23,8230.21,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0174.jpg,70231143,10/29/2012,Hanson Ltd Gibson-Prince,15937.63,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0175.jpg,43494216,10/31/2015,Austin-Mcmillan,5375.57,4886.88,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0176.jpg,39912751,12/27/2018,Friedman-Williams,56295.35,,0,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0177.jpg,44195807,07/09/2014,Costa Inc,,17.47,4,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR, Missing data"
+batch1-0178.jpg,49153414,03/25/2019,Ingram-Mcclain,51998.08,47270.98,5,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0179.jpg,90042261,05/29/2012,Weiss PLC,726.52,660.47,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0180.jpg,53737787,12/08/2011,Levy-Vargas,205.5,186.82,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0181.jpg,92554836,05/09/2016,Oneill LLC,74.8,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0182.jpg,89790497,10/02/2020,"Campbell, Chavez and Reynolds",127.31,115.74,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0183.jpg,71439588,02/08/2021,Clayton LLC,241.95,219.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0184.jpg,78321725,06/21/2015,Flores and Sons,150.19,136.54,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0185.jpg,89876179,04/14/2014,King Inc Leonard LLC,237.6,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0186.jpg,47486295,05/24/2021,Small Inc,907.4,824.91,7,True,
+batch1-0187.jpg,72591450,05/13/2012,"Bishop, Kelley and Wright",5283.18,4802.89,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0188.jpg,31447231,06/18/2017,"Sellers, Marsh and Cabrera",8357.28,7597.53,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0189.jpg,49593532,10/01/2013,Lee Group,5900.59,5364.17,6,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0190.jpg,11460594,04/09/2016,Reyes-Ellis,638.57,580.52,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0191.jpg,90265578,12/29/2017,Cabrera-Thompson,,,6,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0192.jpg,50846623,,"Hood, Andrade and Kim",120.99,109.99,1,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0193.jpg,99935945,03/19/2014,Fox-Reeves,1349.08,1226.44,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0194.jpg,68094256,02/18/2016,Johnson LLC,3221.63,2928.75,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0195.jpg,63959029,09/29/2020,Tapia-Cline,47600.71,43273.37,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0196.jpg,67117171,01/27/2021,"Gilmore, Brady and Carter",172.22,156.56,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0197.jpg,74467550,04/04/2017,Jordan-Morse,9.0,8.18,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0198.jpg,18001647,03/21/2013,Jones-Morris,39.51,35.92,2,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0199.jpg,82017885,,Porter PLC,1023.94,930.85,6,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0200.jpg,82786776,09/26/2018,Skinner-Molina,,147.93,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0201.jpg,68899128,10/15/2013,Dominguez LLC,1.0,1053.99,4,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0202.jpg,49923258,10/26/2011,Watson LLC,1182.5,1075.0,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0203.jpg,44649974,11/27/2012,Herrera-Hamilton,3187.64,2897.85,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0204.jpg,57475368,06/19/2020,Hayes-Sanders,1473.8,1339.82,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0205.jpg,47725399,05/14/2013,"Olson, Holt and Burton",3262.02,2965.47,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0206.jpg,95163776,07/10/2016,Banks Group,731.23,664.75,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0207.jpg,24327499,,"White, Ward and Esparza",19208.48,17462.25,5,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0208.jpg,22883270,06/20/2018,"Cox, Garcia and Briggs",5493.34,4993.95,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0209.jpg,41888239,08/11/2018,Snyder-Singleton,6594.14,5994.67,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0210.jpg,46920651,11/15/2015,Powell Ltd,425.26,386.6,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0211.jpg,30231187,07/22/2011,"Smith, Johnson and Cannon Sanchez-Wilson",142.9,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0212.jpg,23882917,03/29/2014,Hawkins PLC,178.16,161.96,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total"
+batch1-0213.jpg,23436462,03/06/2012,"Franklin, Wilson and Moore",38879.73,35345.21,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0214.jpg,43437889,12/06/2019,"Smith, Jennings and Daugherty",5371.27,4882.97,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0215.jpg,97781335,12/21/2018,"Mccormick, Hendricks and Powers",88976.98,80888.16,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0216.jpg,39510474,08/24/2018,Salinas Inc,47.28,42.98,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0217.jpg,90418276,09/06/2016,"Robinson, Noble and Hayden",8405.45,7641.32,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0218.jpg,26413291,,Morales-Snyder,78.58,71.44,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0219.jpg,92354720,07/05/2018,"Delgado, Smith and Austin",565.0,513.64,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0220.jpg,87588849,,"Byrd, Gould and Hill",,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Missing invoice_date — could not extract from OCR, Missing total_amount — could not extract from OCR"
+batch1-0221.jpg,23993628,05/29/2012,Campos LLC,125.23,113.85,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0222.jpg,90834323,07/27/2011,George and Sons,,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0223.jpg,13187294,10/08/2013,"Cook, Schwartz and Phillips",111.0,100.91,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0224.jpg,93493698,04/05/2015,Gould-Martinez,6140.09,5581.9,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0225.jpg,34911755,01/30/2019,"Graham, Floyd and Johnson Martin, Russo and Gaines",199.2,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0226.jpg,67300087,03/16/2018,Dean LLC,22409.38,20372.16,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0227.jpg,13886485,11/24/2013,Chan-Becker,46215.06,42013.69,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0228.jpg,35992997,02/01/2017,Anderson Inc,,33651.62,0,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0229.jpg,87958388,04/11/2016,Robinson and Sons,5101.77,4637.97,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0230.jpg,51300355,03/28/2012,Williams Ltd,570.82,518.93,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0231.jpg,98396639,02/27/2012,Mullen-Smith,18614.34,16922.13,5,False,"Invalid invoice: Sum of item Net Worth does not equal Invoice Net Total, Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total, Quantity × Unit Price does not equal Net Worth"
+batch1-0232.jpg,51594396,12/10/2016,Ford Ltd,5553.0,5048.18,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0233.jpg,48765740,06/22/2017,Avila Inc,631.99,574.54,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0234.jpg,95825613,04/15/2017,Johnson Ltd,51823.31,47112.1,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0235.jpg,76724637,07/10/2017,"Harrell, Johnson and Thompson",,,5,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0236.jpg,11724045,04/09/2019,"Swanson, Garza and Snyder",1100.73,1000.66,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0237.jpg,54329016,01/18/2012,Brooks Inc,1022.88,929.89,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0238.jpg,50405163,04/16/2020,"Shah, Parsons and Shea",3065.64,2786.95,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0239.jpg,13026595,,Ryan LLC,7269.8,6608.91,4,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0240.jpg,72196558,05/06/2013,Watson PLC,,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0241.jpg,83842319,05/12/2014,"Robinson, Nielsen and Newman",60.45,54.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0242.jpg,58715920,,Adams-Kelly,19189.78,17445.25,5,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0243.jpg,15691351,05/10/2015,Haynes-Robles,19347.41,17588.55,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0244.jpg,87301946,02/23/2012,"Baker, Meyers and Diaz",9091.2,8264.73,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0245.jpg,25844703,07/09/2013,Kim Ltd,158490.25,144082.05,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0246.jpg,94067363,03/21/2017,"Stafford, Reynolds and Hood",148.44,134.95,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0247.jpg,62517865,06/02/2015,Trujillo-Hunt,9.35,8.5,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0248.jpg,52316398,06/03/2012,Moore-Hughes,11633.66,10576.05,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0249.jpg,60416276,04/01/2016,Hodge PLC,600.15,545.59,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0250.jpg,50712639,01/10/2021,"Smith, Blackburn and Barton",208.5,189.55,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0251.jpg,41893391,08/08/2015,Moore and Sons,,,7,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0252.jpg,45279263,02/18/2013,Anderson Ltd,25.15,22.86,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0253.jpg,12492197,07/05/2020,Holland-Austin,1324.32,1203.93,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0254.jpg,61231490,03/06/2012,Rivers-Martin Escobar-Johnson,181.34,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0255.jpg,32177071,04/12/2017,Kirby PLC,103.92,94.47,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0256.jpg,77522687,05/14/2019,"Smith, Page and Ross",47502.39,43183.99,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0257.jpg,52786363,06/11/2011,Thomas-Moore,25.5,23.18,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0258.jpg,22553110,07/26/2011,Evans-Nelson,44630.49,40573.17,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0259.jpg,40046347,07/28/2011,Campos-Cooper,130.83,118.94,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0260.jpg,33085665,,Rose-Brown,1023.94,930.85,2,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0261.jpg,29075921,05/24/2021,Rosales-Krause,21467.33,19515.75,3,True,
+batch1-0262.jpg,92564069,09/14/2018,"Brown, Werner and Smith Holland PLC",2.18,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0263.jpg,67743685,01/24/2018,"Cooper, Wilson and Tran",247.84,225.31,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Quantity × Unit Price does not equal Net Worth"
+batch1-0264.jpg,74221189,10/26/2015,Perry Inc,,238.88,4,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0265.jpg,27166082,09/29/2020,Webb-Oconnor,15803.26,14366.6,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0266.jpg,91851148,11/08/2015,"Freeman, Carter and Peterson",760.1,691.0,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0267.jpg,27006132,09/18/2017,"Vasquez, May and Lewis",5289.89,4808.99,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0268.jpg,83299043,06/24/2019,Clayton Inc,3.0,2844.93,7,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Sum of item Gross Amount does not equal Invoice Gross Total, Quantity × Unit Price does not equal Net Worth"
+batch1-0269.jpg,67095041,12/14/2018,"Wade, Scott and Glover",87.96,79.96,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0270.jpg,59977720,06/16/2020,"Long LLC Long, Nguyen and Anderson",331.78,,2,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0271.jpg,65863078,03/16/2017,Mejia-Garcia,1843.4,1675.82,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0272.jpg,32762320,12/04/2016,Harris-Thomas,129.6,117.82,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0273.jpg,43292704,06/20/2015,Ball-King,107680.75,97891.59,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0274.jpg,65123866,11/20/2012,"Potts, Pittman and Beck",913.65,830.59,6,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0275.jpg,27405523,03/24/2018,"Case, Mccarthy and Dean",120.62,109.65,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0276.jpg,25210895,05/14/2019,Lyons Inc,89.06,80.96,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0277.jpg,64994538,,Martinez Group,30210.16,27463.78,3,False,Invalid invoice: Missing invoice_date — could not extract from OCR
+batch1-0278.jpg,90290650,04/24/2018,"Ramirez, Miller and Morris",2843.46,2584.96,6,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0279.jpg,37598290,09/04/2016,"Beck, Martin and Jones",,2959.92,4,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0280.jpg,81153047,12/12/2020,"White, Watkins and Barton",203.19,184.72,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0281.jpg,68963398,01/16/2017,Tucker-Shaw,99.88,90.8,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0282.jpg,63028625,02/19/2019,"Cummings, Lynn and Moran",2298.9,2089.91,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0283.jpg,77980602,05/07/2017,Cohen-Fleming,314.27,285.7,4,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0284.jpg,48131301,11/05/2019,"Williams, Boone and Allen",2194.5,1995.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0285.jpg,80871648,02/18/2013,Yang-Pierce,200.4,182.18,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0286.jpg,46460686,12/23/2017,"Barnes, Parks and Jenkins",18471.6,16792.36,5,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0287.jpg,51335214,03/27/2015,Rivera Group,204.27,185.7,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0288.jpg,64855498,08/01/2019,Johnston-Douglas,1.09,0.99,1,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing data"
+batch1-0289.jpg,67973203,09/03/2012,Brown-Russell,350.24,318.4,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0290.jpg,55623924,03/13/2015,Johns-Brown,5213.9,4739.91,3,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0291.jpg,93356118,06/14/2013,Simon-Colon,9645.88,8768.98,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0292.jpg,63279232,04/24/2017,"Allen, Gibbs and Holmes Jones-Black",328.2,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0293.jpg,36433509,03/29/2021,Gutierrez LLC,12.76,11.6,1,True,
+batch1-0294.jpg,90853270,03/04/2013,"Underwood, Rowe and Peterson",989.67,899.7,2,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0295.jpg,67103708,01/20/2020,French PLC Hernandez Group,43.96,,1,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0296.jpg,76098038,08/20/2012,Kennedy-Odonnell,,153.86,4,False,"Invalid invoice: Invoice date is older than 90 days relative to the dataset, Missing total_amount — could not extract from OCR"
+batch1-0297.jpg,24206086,05/24/2012,"Hall, Hancock and Holt",8.8,8.0,1,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0298.jpg,22019496,03/14/2012,Barron-Rodriguez,162.33,147.57,7,False,Invalid invoice: Invoice date is older than 90 days relative to the dataset
+batch1-0299.jpg,31838082,10/19/2013,"Howe, Evans and Velazquez Lewis, Hansen and Martin",191.76,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
+batch1-0300.jpg,76619276,11/16/2011,"Bailey, Adams and Pacheco Morgan Ltd",343.87,,3,False,"Invalid invoice: Missing net_total — could not extract from OCR, Invoice date is older than 90 days relative to the dataset"
